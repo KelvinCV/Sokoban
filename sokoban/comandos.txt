@@ -1,0 +1,7 @@
+Setas do Teclado: Você pode usar as setas do teclado para mover o personagem (o "@" ou "+") pelo armazém. Use as setas para cima, para baixo, para a esquerda e para a direita para movê-lo na direção desejada.
+
+Tecla "q": Pressionando a tecla "q", você pode sair do jogo e encerrar a aplicação.
+
+Tecla "d": Pressionando a tecla "d", você pode desfazer seu último movimento. Isso permite voltar ações anteriores no jogo.
+
+Tecla Enter: Ao selecionar um nível ou ao responder a uma pergunta, como inserir o nível desejado, você pode usar a tecla Enter para confirmar sua escolha ou resposta.
